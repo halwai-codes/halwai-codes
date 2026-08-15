@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer | .NET | Azure | Cloud | Distributed Systems
 
-I'm a Software Engineer focused on building scalable backend and cloud-based applications using **C#, .NET, Azure, SQL Server, and Kafka**.
+I'm a Software Engineer focused on building scalable backend and cloud-based applications using **C#, .NET, Azure, SQL Server and Data Engineering**.
 
 ## 🛠️ Tech Stack
 
