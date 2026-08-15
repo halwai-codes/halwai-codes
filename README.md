@@ -1,53 +1,54 @@
-# Hi, I'm Tulsi Halwai
+# 👋 Hi, I'm Tulsi
 
-Software Engineering Technical Lead at **Capgemini**, currently transitioning from full-stack/backend engineering into **Data Engineering**. Based in Sweden, targeting roles across the Nordics, Baltics, Netherlands, and Germany.
+### Senior Software Engineer | .NET | Azure | Cloud | Distributed Systems
 
-## What I do today
+I'm a Software Engineer focused on building scalable backend and cloud-based applications using **C#, .NET, Azure, SQL Server, and Kafka**.
 
-I lead development on enterprise .NET systems — building and maintaining microservices, REST APIs, and cloud infrastructure on Azure. Day to day that means:
+## 🛠️ Tech Stack
 
-- Designing and shipping features across distributed .NET Core services
-- Working with Kafka/Confluent Schema Registry for event-driven architectures
-- Owning incident resolution and reconciliation automation
-- Mentoring and leading a development team
+- **Languages:** C#, SQL
+- **Backend:** .NET, ASP.NET Core, Web API, Entity Framework Core
+- **Cloud:** Microsoft Azure, Azure App Service, Azure SQL, Key Vault, Application Insights
+- **Messaging:** Apache Kafka, Event-Driven Architecture
+- **Architecture:** Microservices, CQRS, Clean Architecture, Distributed Systems
+- **Database:** SQL Server, Stored Procedures, Query Optimization
+- **Tools:** Git, GitHub, Azure DevOps, Visual Studio
 
-## Where I'm headed
+## 🏗️ Areas of Expertise
 
-I'm actively building toward Data Engineering and AI Engineering roles. Currently deepening my skills in:
+- Backend Development
+- REST API Development
+- Microservices Architecture
+- Cloud-Native Applications
+- Event-Driven Systems
+- Distributed Systems
+- System Design
+- Performance & Troubleshooting
 
-- **Azure Data Factory** & **Microsoft Fabric** — orchestration and pipelines
-- **Azure Databricks** & **Apache Spark (PySpark)** — large-scale data processing
-- **Delta Lake** & **Unity Catalog** — lakehouse architecture and governance
-- Working toward **Databricks certifications**
+## 📚 Currently Learning
 
-Alongside this, I'm pursuing a Master's degree and picking up Swedish as I build a longer-term career in the Nordic tech market.
+- Advanced .NET & C#
+- Azure Architecture
+- Kafka & Event-Driven Architecture
+- Distributed Systems
+- System Design
+- SQL Performance Optimization
 
-## Tech Stack
+## 🎯 Career Focus
 
-**Languages & Frameworks**
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+I'm interested in **Senior Software Engineer / .NET / Azure / Backend Engineering** opportunities where I can work on scalable, distributed, and cloud-based systems.
 
-**Data & Cloud**
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+## 📂 Projects
 
-## Featured Projects
+I'm building and documenting projects covering:
 
-<!--
-Pin 2-4 repos on your GitHub profile (Customize pins) instead of listing them here manually —
-GitHub renders those as cards automatically. Suggested picks once ready:
-- A Databricks/PySpark ELT pipeline project
-- An ADF orchestration + Delta Lake project
-- Your strongest .NET microservice
--->
+- .NET Web APIs
+- Azure Cloud Solutions
+- Kafka-based Event Processing
+- Microservices
+- System Design
+- SQL & Data Engineering
 
-## Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tulsi-halwai-software-engineer/)
-[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/devilindian)
+⭐ Thanks for visiting my profile!
