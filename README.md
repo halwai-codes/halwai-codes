@@ -1,6 +1,6 @@
-	# 👋 Hi, I'm Tulsi
+# 👋 Hi, I'm Tulsi
 
-	### Software Engineer | .NET | System Design | AI & GenAI | Data Engineering
+### Software Engineer | .NET | System Design | AI & GenAI | Data Engineering
 
 I build scalable software systems, AI-powered automation, and data-driven solutions.
 
@@ -8,7 +8,7 @@ My background combines **C#/.NET engineering, system architecture, SQL/data engi
 
 ---
 
-	## 🚀 What I Work On
+## 🚀 What I Work On
 
 * 🧩 **Software Engineering** — C#, .NET, ASP.NET Core, APIs
 * 🏗️ **System Design** — scalable architectures, CQRS, event-driven systems, distributed systems
