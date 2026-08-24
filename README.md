@@ -123,8 +123,8 @@ I prefer learning concepts through **real implementations and engineering scenar
 
 ## 🌐 Connect
 
-* 💼 LinkedIn — [Connect with me](https://www.linkedin.com/)
-* 🐙 GitHub — [Explore my projects](https://github.com/)
+* 💼 LinkedIn — [Connect with me](https://www.linkedin.com/in/tulsihalwai6/)
+* 🐙 GitHub — [Explore my projects](https://github.com/halwai-codes)
 * 📸 Instagram — `halwai-code`
 
 ---
