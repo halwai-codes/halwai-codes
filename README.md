@@ -125,15 +125,7 @@ I prefer learning concepts through **real implementations and engineering scenar
 
 * 💼 LinkedIn — [Connect with me](https://www.linkedin.com/in/tulsihalwai6/)
 * 🐙 GitHub — [Explore my projects](https://github.com/halwai-codes)
-* 📸 Instagram — `halwai-code`
-
----
-
-## ⚡ Brand
-
-### `brandvalue`
-
-### `halwai-code`
+* 📸 Instagram — CodeCortex.AI
 
 **Building software. Designing systems. Exploring AI. Automating everything.**
 
