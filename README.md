@@ -1,134 +1,32 @@
-# 👋 Hi, I'm Tulsi
+# Hi, I'm Tulsi Halwai 👋
 
-### Software Engineer | .NET | System Design | AI & GenAI | Data Engineering
+### Software Engineer | AI/ML Enthusiast | Data Engineering
 
-I build scalable software systems, AI-powered automation, and data-driven solutions.
+I'm a Software Engineer specialising in C#, .NET, Python and enterprise application development. Currently pursuing an MSc in Computer Science at Riga Nordic University.
 
-My background combines **C#/.NET engineering, system architecture, SQL/data engineering, cloud technologies, and Generative AI**.
+### Technical Skills
 
----
+- **Languages:** C#, Python, SQL, JavaScript, TypeScript
+- **Backend:** .NET Core, ASP.NET Core, REST APIs, Microservices
+- **Data Engineering:** SQL Server, SSIS, ETL, Azure Data Engineering
+- **Cloud & DevOps:** Microsoft Azure, Docker, Kubernetes, CI/CD
+- **AI & Generative AI:** Machine Learning, NLP, LLMs, RAG, LangChain
+- **Frontend:** React, Angular
 
-## 🚀 What I Work On
+### Areas of Work
 
-* 🧩 **Software Engineering** — C#, .NET, ASP.NET Core, APIs
-* 🏗️ **System Design** — scalable architectures, CQRS, event-driven systems, distributed systems
-* 🤖 **AI & GenAI** — LLM applications, AI agents, Copilot, RAG, automation
-* 🔄 **Automation** — workflow automation with n8n and AI
-* 📊 **Data Engineering** — SQL, Python, Pandas, NumPy, Databricks, dbt
-* ☁️ **Cloud & DevOps** — Docker, CI/CD, cloud-native architectures
-* 🗄️ **Databases** — SQL Server, relational databases, data pipelines
+- Enterprise software engineering
+- AI and Machine Learning applications
+- Retrieval-Augmented Generation systems
+- Data engineering and ETL pipelines
+- Multimodal AI applications
 
----
+### Education
 
-## 🛠️ Tech Stack
+- MSc Computer Science — Riga Nordic University
+- BCA — SNDT University
 
-### Languages
+### Connect
 
-`C#` `Python` `SQL` `JavaScript`
-
-### Backend
-
-`.NET` `ASP.NET Core` `Web API` `Entity Framework`
-
-### Architecture
-
-`System Design` `CQRS` `Clean Architecture` `Microservices` `Event-Driven Architecture`
-
-### AI / GenAI
-
-`Generative AI` `LLMs` `RAG` `AI Agents` `Microsoft Copilot` `Prompt Engineering`
-
-### Data
-
-`SQL` `Pandas` `NumPy` `Matplotlib` `dbt` `Databricks` `Data Visualization`
-
-### Tools & Platforms
-
-`Docker` `Git` `GitHub` `n8n` `Azure`
-
----
-
-## 🧠 Engineering Interests
-
-I enjoy working at the intersection of:
-
-```text
-Software Engineering
-        ↓
-System Design
-        ↓
-Data
-        ↓
-Artificial Intelligence
-        ↓
-Automation
-```
-
-My goal is to design systems that are not only functional, but also **scalable, maintainable, observable, and automation-friendly**.
-
----
-
-## 📚 Currently Learning & Exploring
-
-* Advanced System Design
-* Distributed Systems
-* AI Agents & Agentic Workflows
-* RAG architectures
-* LLM application development
-* Data Engineering
-* Cloud architecture
-* Workflow automation
-* Modern .NET architecture
-
----
-
-## 🔨 Featured Projects
-
-### 🤖 AI & Automation
-
-Projects exploring LLMs, AI agents, automation workflows, and intelligent applications.
-
-### 🏗️ System Design
-
-Practical implementations of:
-
-* CQRS
-* Event-driven architecture
-* Microservices
-* Distributed systems
-* Scalable APIs
-
-### 📊 Data Engineering
-
-Hands-on projects covering:
-
-* Data collection
-* Web scraping
-* ETL/ELT
-* SQL analytics
-* Python data processing
-* Data visualization
-* dbt
-* Databricks
-
----
-
-## 📈 My Approach
-
-> **Learn → Build → Break → Understand → Improve**
-
-I prefer learning concepts through **real implementations and engineering scenarios** rather than theory alone.
-
----
-
-## 🌐 Connect
-
-* 💼 LinkedIn — [Connect with me](https://www.linkedin.com/in/tulsihalwai6/)
-* 🐙 GitHub — [Explore my projects](https://github.com/halwai-codes)
-* 📸 Instagram — CodeCortex.AI
-
-**Building software. Designing systems. Exploring AI. Automating everything.**
-
----
-
-⭐ If you find something useful here, feel free to explore the repositories and connect.
+- [LinkedIn](https://linkedin.com/in/tulsihalwai6)
+- [GitHub](https://github.com/halwai-codes)
